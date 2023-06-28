@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI.Samples.LoginPages.SpaceGuard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI.Samples.LoginPages.SpaceGuard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
